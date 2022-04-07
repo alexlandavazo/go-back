@@ -7,6 +7,10 @@
   pointer-events: none;
 }
 
+.map {
+  background: url('https://media.ride.guru/uploads/.thumbnails/1568636861610.png/1568636861610-800x0-no-upscale.png');
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
